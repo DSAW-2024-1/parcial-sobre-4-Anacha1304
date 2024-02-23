@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/jt9f8bo4)
 # Parcial Primer Corte
+[LINK PÁGINA](https://dsaw-2024-1.github.io/parcial-sobre-4-Anacha1304/)
 
 ## HTML, CSS y JavaScript
 
